@@ -62,7 +62,7 @@ improving my programming and problem-solving skills.
 
 ## 🚀 Featured Projects
 
-### 🔍 Deepfake Detection
+### 🔍 [Deepfake Detection](https://github.com/nee681952/Deepfake-Detection-Distinguishing-Real-vs-AI-Generated-Faces-Via-Adversarial-Features)
 Deep learning project for distinguishing real faces from AI-generated faces
 using adversarial features.
 
