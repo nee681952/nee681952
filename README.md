@@ -86,6 +86,12 @@ profit and business performance.
 
 **Tech:** MySQL, Power BI, SQL, MS Excel
 
+### 🌎 Personal Portfolio
+Personal website showcasing my skills, projects and
+professional profile.
+
+**Technologies:** HTML • CSS • JavaScript
+
 ---
 
 ## 📊 GitHub Stats
