@@ -94,11 +94,15 @@ professional profile.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-https://github-readme-stats.vercel.app/api?username=nee681952&show_icons=true&theme=tokyonight
+I use GitHub to build projects, practice programming, and continuously improve my development skills.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nee681952&layout=compact&theme=tokyonight)
+- 💻 Software Development Projects
+- 🐍 Python & Programming
+- 🗄️ SQL & Database Projects
+- 🤖 Generative AI & ML Projects
+- 🌐 Web Development
 
 ---
 
