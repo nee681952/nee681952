@@ -68,25 +68,25 @@ using adversarial features.
 
 **Tech:** Python, PyTorch, EfficientNet, OpenCV, NumPy
 
-### 🚆 Rail Pass Management System
+### 🚆 [Rail Pass Management System](https://github.com/nee681952/Rail-Pass-Management-System)
 Web-based railway pass management system for managing applications,
 users, reports and enquiries.
 
 **Tech:** PHP, MySQL, HTML, CSS, JavaScript
 
-### 🌐 Multilingual Text Generation & Translation
+### 🌐 [Multilingual Text Generation & Translation](https://github.com/nee681952/Multilingual-Text-Generation-and-Translation-Using-Large-Language-Models)
 Language-focused application using Large Language Models for multilingual
 text generation and translation.
 
 **Tech:** Python, Flask, HTML, CSS, LLMs
 
-### 📊 E-commerce Sales & Business Analytics
+### 📊 [E-commerce Sales & Business Analytics](https://github.com/nee681952/E-commerce-Sales-and-Business-Analytics-using-Power-BI)
 Interactive analytics project for analyzing sales, customers, products,
 profit and business performance.
 
 **Tech:** MySQL, Power BI, SQL, MS Excel
 
-### 🌎 Personal Portfolio
+### 🌎 [Personal Portfolio](https://github.com/nee681952/Portfolio)
 Personal website showcasing my skills, projects and
 professional profile.
 
