@@ -96,7 +96,6 @@ professional profile.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nee681952&show_icons=true&theme=tokyonight)
 https://github-readme-stats.vercel.app/api?username=nee681952&show_icons=true&theme=tokyonight
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nee681952&layout=compact&theme=tokyonight)
