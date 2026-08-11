@@ -1,16 +1,100 @@
-## Hi there 👋
+# Hi 👋, I'm Neeraj J
 
-<!--
-**nee681952/nee681952** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Engineer | MCA Graduate | Python & Web Developer
 
-Here are some ideas to get you started:
+I'm an MCA graduate passionate about software development, Python, web technologies,
+SQL, and Generative AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building practical projects that solve real-world problems and continuously
+improving my programming and problem-solving skills.
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 MCA Graduate
+- 💻 Interested in Software Development
+- 🐍 Learning and building with Python
+- 🌐 Interested in Web Development
+- 🗄️ Working with SQL & MySQL
+- 🤖 Exploring Generative AI and LLMs
+- 🚀 Currently improving my development and problem-solving skills
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming
+- Python
+- JavaScript
+- PHP
+- SQL
+
+### Web Development
+- HTML
+- CSS
+- JavaScript
+- Flask
+- Bootstrap
+
+### Database
+- MySQL
+
+### AI / ML
+- Generative AI
+- NLP
+- PyTorch
+- OpenCV
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Power BI
+
+---
+
+## 🚀 Featured Projects
+
+### 🔍 Deepfake Detection
+Deep learning project for distinguishing real faces from AI-generated faces
+using adversarial features.
+
+**Tech:** Python, PyTorch, EfficientNet, OpenCV, NumPy
+
+### 🚆 Rail Pass Management System
+Web-based railway pass management system for managing applications,
+users, reports and enquiries.
+
+**Tech:** PHP, MySQL, HTML, CSS, JavaScript
+
+### 🌐 Multilingual Text Generation & Translation
+Language-focused application using Large Language Models for multilingual
+text generation and translation.
+
+**Tech:** Python, Flask, HTML, CSS, LLMs
+
+### 📊 E-commerce Sales & Business Analytics
+Interactive analytics project for analyzing sales, customers, products,
+profit and business performance.
+
+**Tech:** MySQL, Power BI, SQL, MS Excel
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nee681952&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nee681952&layout=compact&theme=tokyonight)
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: [Neeraj J](https://www.linkedin.com/in/neerajjakka)
+- 📧 Email: nee681952@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
