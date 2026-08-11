@@ -1,6 +1,6 @@
 # Hi 👋, I'm Neeraj J
 
-### Aspiring Software Engineer | MCA Graduate | Python & Web Developer
+### MCA Graduate | Aspiring Software Engineer | Python & Web Developer | SQL | Generative AI | HTML, CSS, JavaScript 
 
 I'm an MCA graduate passionate about software development, Python, web technologies,
 SQL, and Generative AI.
