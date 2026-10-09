@@ -1,4 +1,4 @@
-<img width="1584" height="396" alt="Profile_Banner" src="https://github.com/user-attachments/assets/f64a7f84-dca8-456b-85b8-b18c4eafcd15" />
+
 
 
 
@@ -6,25 +6,25 @@
 
 # Hi 👋, I'm Neeraj J
 
-### MCA Graduate | Aspiring Software Engineer | Python & Web Developer | SQL | Generative AI | HTML, CSS, JavaScript 
+### MCA Graduate | IT Fresher | Python | SQL | MySQL | Flask | Power BI | Excel | Software & Data Roles 
 
-I'm an MCA graduate passionate about software development, Python, web technologies,
-SQL, and Generative AI.
-
-I enjoy building practical projects that solve real-world problems and continuously
-improving my programming and problem-solving skills.
+Welcome to my GitHub profile! I'm an MCA graduate interested in software development, backend development, database management and data analytics. I enjoy building projects, solving problems and learning new technologies.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 MCA Graduate
-- 💻 Interested in Software Development
-- 🐍 Learning and building with Python
-- 🌐 Interested in Web Development
-- 🗄️ Working with SQL & MySQL
-- 🤖 Exploring Generative AI and LLMs
-- 🚀 Currently improving my development and problem-solving skills
+🎓 MCA graduate from Bapuji Institute of Engineering and Technology, Davanagere.
+
+💻 Interested in Python development, backend development and software engineering.
+
+📊 Interested in SQL, MySQL, Power BI and data analytics.
+
+🚀 Built academic and personal projects involving web applications, inventory management, business analytics and image-based deepfake detection.
+
+🌱 Continuously improving my technical and professional skills.
+
+🎯 Seeking entry-level opportunities in IT, software development, data analytics, testing and technical support.
 
 ---
 
@@ -32,19 +32,15 @@ improving my programming and problem-solving skills.
 
 ### Programming
 - Python
-- JavaScript
-- PHP
-- SQL
 
 ### Web Development
 - HTML
 - CSS
-- JavaScript
 - Flask
-- Bootstrap
 
 ### Database
 - MySQL
+- SQL
 
 ### AI / ML
 - Generative AI
