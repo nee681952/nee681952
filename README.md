@@ -1,3 +1,19 @@
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:2563EB&height=230&section=header&text=NEERAJ%20J&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20MCA%20Graduate&descSize=18&descAlignY=58&animation=twinkling" />
+
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile!;MCA+Graduate+%7C+Aspiring+Software+Engineer;Python+%7C+SQL+%7C+Power+BI;Building+Projects+and+Learning+Every+Day" />
+</p>
+
+<p align="center">
+  <img width="400"
+  src="https://user-images.githubusercontent.com/74038190/212750337-1a2e8f6b-c1cb-4e58-9a2d-99f1ef6d4d52.gif"
+  alt="Coding animation"/>
+</p>
+
 # 👋 Hello, I'm Neeraj J!
 
 ### Aspiring Software Engineer | MCA Graduate | Python Developer | Data Analytics Enthusiast
