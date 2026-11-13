@@ -1,112 +1,312 @@
+# 👋 Hello, I'm Neeraj J!
 
+### Aspiring Software Engineer | MCA Graduate | Python Developer | Data Analytics Enthusiast
 
+<p align="center">
+  <a href="https://ephemeral-biscochitos-1c514d.netlify.app/">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-6366F1?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/nee681952">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
-
-
-
-# Hi 👋, I'm Neeraj J
-
-### MCA Graduate | IT Fresher | Python | SQL | MySQL | Flask | Power BI | Excel | Software & Data Roles 
-
-Welcome to my GitHub profile! I'm an MCA graduate interested in software development, backend development, database management and data analytics. I enjoy building projects, solving problems and learning new technologies.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Python+%7C+SQL+%7C+Power+BI;Building+Projects+and+Learning+Every+Day;Turning+Ideas+Into+Practical+Solutions" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 MCA graduate from Bapuji Institute of Engineering and Technology, Davanagere.
+Hello! I'm **Neeraj J**, an MCA graduate from **Bapuji Institute of Engineering and Technology (BIET), Davanagere**, with an aggregate of **80.33%**.
 
-💻 Interested in Python development, backend development and software engineering.
+I am passionate about technology, software development, problem-solving and data analytics. I enjoy exploring new technologies, developing practical applications and transforming data into meaningful insights.
 
-📊 Interested in SQL, MySQL, Power BI and data analytics.
+I believe in continuous learning and improving my technical knowledge through hands-on projects and practical experience.
 
-🚀 Built academic and personal projects involving web applications, inventory management, business analytics and image-based deepfake detection.
+### 🎯 My Professional Interests
 
-🌱 Continuously improving my technical and professional skills.
+- Python Development and Backend Development
+- SQL and Database Management
+- Data Analytics and Business Intelligence
+- Power BI Dashboard Development
+- Web Application Development
+- Generative AI and Emerging Technologies
 
-🎯 Seeking entry-level opportunities in IT, software development, data analytics, testing and technical support.
+### 💡 My Strengths
+
+- Problem-solving and analytical thinking
+- Adaptability and quick learning
+- Positive attitude and self-motivation
+- Willingness to learn new technologies
+- Ability to work towards practical solutions
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Skills & Technologies
 
-### Programming
-- Python
+### Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
 ### Web Development
-- HTML
-- CSS
-- Flask
 
-### Database
-- MySQL
-- SQL
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
 
-### AI / ML
-- Generative AI
-- NLP
-- PyTorch
-- OpenCV
+### Database Management
 
-### Tools
-- Git
-- GitHub
-- VS Code
-- Power BI
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### Data Analytics & Visualization
+
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</p>
+
+### AI / Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative_AI-8E44AD?style=for-the-badge" />
+</p>
+
+### Development Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔍 [Deepfake Detection](https://github.com/nee681952/Deepfake-Detection-Distinguishing-Real-vs-AI-Generated-Faces-Via-Adversarial-Features)
-Deep learning project for distinguishing real faces from AI-generated faces
-using adversarial features.
+I enjoy building projects that help me apply my technical knowledge to practical problems.
 
-**Tech:** Python, PyTorch, EfficientNet, OpenCV, NumPy
+### 01. 📊 E-Commerce Sales & Business Analytics Using Power BI
 
-### 🚆 [Rail Pass Management System](https://github.com/nee681952/Rail-Pass-Management-System)
-Web-based railway pass management system for managing applications,
-users, reports and enquiries.
+**Technologies:** MySQL | SQL | Power BI | DAX | Excel
 
-**Tech:** PHP, MySQL, HTML, CSS, JavaScript
+An interactive business intelligence project designed to analyze e-commerce sales, profitability, customer behavior, product performance and operational efficiency.
 
-### 🌐 [Multilingual Text Generation & Translation](https://github.com/nee681952/Multilingual-Text-Generation-and-Translation-Using-Large-Language-Models)
-Language-focused application using Large Language Models for multilingual
-text generation and translation.
+**Key Highlights:**
+- Cleaned and prepared e-commerce datasets using Excel.
+- Created relational database structures in MySQL.
+- Performed SQL analysis using joins, CTEs, subqueries and window functions.
+- Implemented RFM analysis, customer retention and cohort analysis.
+- Developed a five-page interactive Power BI dashboard.
+- Analyzed sales, profit, customer insights and delivery performance.
 
-**Tech:** Python, Flask, HTML, CSS, LLMs
+[📂 View GitHub Repository](https://github.com/nee681952/E-commerce-Sales-and-Business-Analytics-using-Power-BI)
 
-### 📊 [E-commerce Sales & Business Analytics](https://github.com/nee681952/E-commerce-Sales-and-Business-Analytics-using-Power-BI)
-Interactive analytics project for analyzing sales, customers, products,
-profit and business performance.
+### 02. 🛒 CartNexa – Inventory Management System
 
-**Tech:** MySQL, Power BI, SQL, MS Excel
+**Technologies:** Python | Flask | MySQL | HTML | CSS | JavaScript
 
-### 🌎 [Personal Portfolio](https://github.com/nee681952/Portfolio)
-Personal website showcasing my skills, projects and
-professional profile.
+A full-stack inventory management application developed to simplify product management, stock tracking and sales operations.
 
-**Technologies:** HTML • CSS • JavaScript
+**Key Highlights:**
+- Developed backend functionality using Python and Flask.
+- Designed relational database tables using MySQL.
+- Created admin and user dashboards.
+- Implemented product management and stock updates.
+- Developed checkout, invoice and order tracking functionality.
+- Built responsive frontend interfaces.
+
+[🌐 View Project on Portfolio](https://ephemeral-biscochitos-1c514d.netlify.app/#projects)
+
+### 03. 🚆 Rail Pass Management System
+
+**Technologies:** PHP | MySQL | HTML | CSS | Bootstrap | jQuery
+
+A web-based railway pass management application designed to simplify commuter pass issuance and administration.
+
+**Key Highlights:**
+- Developed admin and user modules.
+- Implemented railway pass management.
+- Created pass search and printing functionality.
+- Built category management and enquiry handling.
+- Developed reporting features for administrators.
+- Used MySQL for database management.
+
+[📂 View GitHub Repository](https://github.com/nee681952/Rail-Pass-Management-System)
+
+### 04. 🔍 Deepfake Detection – Real vs AI-Generated Faces
+
+**Technologies:** Python | PyTorch | EfficientNet-B0 | OpenCV | Flask
+
+A deep learning application designed to classify real human face images and AI-generated face images.
+
+**Key Highlights:**
+- Implemented image preprocessing using OpenCV and MTCNN.
+- Used EfficientNet-B0 for image classification.
+- Applied FGSM adversarial training.
+- Integrated the trained model with a Flask API.
+- Developed an interface for image prediction and authenticity scores.
+
+[📂 View GitHub Repository](https://github.com/nee681952/Deepfake-Detection-Distinguishing-Real-vs-AI-Generated-Faces-Via-Adversarial-Features)
+
+### 05. ⚡ EV Market Analysis
+
+**Technologies:** SQL | Power BI | DAX | Data Visualization
+
+A business analytics project focused on exploring electric vehicle adoption and market trends.
+
+**Key Highlights:**
+- Cleaned and prepared multi-year EV market data.
+- Created DAX measures for total registrations and year-over-year growth.
+- Analyzed state-level and vehicle-type adoption patterns.
+- Designed interactive Power BI dashboards.
+- Identified leading manufacturers and market trends.
+
+[📂 View GitHub Repository](https://github.com/nee681952/EV-Market-Analysis)
 
 ---
 
-## 📊 GitHub Activity
+## 🎓 Education
 
-I use GitHub to build projects, practice programming, and continuously improve my development skills.
-
-- 💻 Software Development Projects
-- 🐍 Python & Programming
-- 🗄️ SQL & Database Projects
-- 🤖 Generative AI & ML Projects
-- 🌐 Web Development
+| Qualification | Institution | Details |
+|---|---|---|
+| Master of Computer Applications (MCA) | BIET, Davanagere | 80.33% |
+| Undergraduate Education | — | — |
 
 ---
 
-## 🤝 Connect With Me
+## 🏆 Certifications & Professional Learning
 
-- 💼 LinkedIn: [Neeraj J](https://www.linkedin.com/in/neerajjakka)
-- 📧 Email: nee681952@gmail.com
+I continuously improve my knowledge through online courses, workshops, job simulations and technical learning.
+
+| No. | Certificate / Course | Organization |
+|---|---|---|
+| 01 | GenAI Powered Data Analytics Job Simulation | Tata – Forage |
+| 02 | 30 Days Power BI Micro Course | SkillCourse |
+| 03 | Data Analytics Job Simulation | Deloitte – Forage |
+| 04 | Python Developer Internship Participation | Unstop – Geeks Kepler |
+| 05 | Python Django 101 | Simplilearn SkillUp |
+| 06 | Accelerated Web Development with Python Using Django | Kishkinda University |
+| 07 | Python Career Webinar | Internz |
+| 08 | Yuva AI for All | Nasscom FutureSkills Prime |
+| 09 | Backend Web Development Using Node.js and MongoDB | GDSC – DevTown |
+| 10 | Free Excel Certification Course Online | Intellipaat Academy |
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 📈 My Data Analytics & Development Workflow
+
+I enjoy working through the complete development and analytics process.
+
+**Data Analytics Workflow**
+
+1. Understand the business problem.
+2. Collect and explore datasets.
+3. Clean and prepare data using Excel.
+4. Query and analyze data using SQL.
+5. Build KPIs and DAX measures.
+6. Create interactive Power BI dashboards.
+7. Interpret results and communicate insights.
+
+**Software Development Workflow**
+
+1. Understand project requirements.
+2. Plan application structure.
+3. Design the database.
+4. Develop frontend and backend functionality.
+5. Integrate application components.
+6. Test and debug the application.
+7. Document and publish the project on GitHub.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nee681952&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nee681952&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nee681952&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Career Goals
+
+My goal is to start my professional career in the IT industry, gain practical experience and continuously improve my technical abilities.
+
+I am particularly interested in opportunities related to:
+
+- Python Development
+- Software Development
+- Backend Development
+- SQL and Database Management
+- Data Analytics
+- Power BI and Business Intelligence
+
+I am open to entry-level opportunities where I can contribute, learn from experienced professionals and grow as a technology professional.
+
+---
+
+## 🌐 Explore My Portfolio
+
+Want to know more about my background, skills, projects, certificates and resume?
+
+<p align="center">
+  <a href="https://ephemeral-biscochitos-1c514d.netlify.app/">
+    <img src="https://img.shields.io/badge/Explore_My_Portfolio-Visit_Website-6366F1?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with developers, recruiters and professionals who share an interest in technology and innovation.
+
+<p align="center">
+  <a href="https://github.com/nee681952">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/nee681952/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nee681952@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <b>📧 Email:</b> nee681952@gmail.com
+</p>
+
+---
+
+## 💬 A Little About My Mindset
+
+> "Learning today, building for tomorrow."
+
+I believe every project, challenge and learning experience helps me become a better professional. I'm excited to keep exploring, building and contributing to the world of technology.
+
+<p align="center">
+  <b>⭐ Thank you for visiting my GitHub profile!</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:06B6D4&height=100&section=footer" />
+</p>
