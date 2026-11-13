@@ -181,10 +181,12 @@ A business analytics project focused on exploring electric vehicle adoption and 
 
 ## 🎓 Education
 
-| Qualification | Institution | Details |
-|---|---|---|
-| Master of Computer Applications (MCA) | BIET, Davanagere | 80.33% |
-| Undergraduate Education | — | — |
+| Qualification | Institution | Percentage/CGPA | Pass Year |
+|---|---|---|---|
+| Master of Computer Applications (MCA) | Bapuji Institute of Engineering and Technology, Davanagere | 80.33% | 2026 |
+| Bachelor of Computer Applications (BCA) | Veerashaiva Degree College | 8.31 CGPA | 2024 |
+| 12th PUC | Wardlaw Composite PU College | 67.77% | 2021 |
+| SSLC | Modern English High School | 70.72% | 2019 |
 
 ---
 
